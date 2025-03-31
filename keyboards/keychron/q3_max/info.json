@@ -61,6 +61,9 @@
             "solid_splash": true,
             "splash": true,
             "typing_heatmap": true
+        },
+        "default": {
+            "animation": "typing_heatmap"
         }
     },
     "eeprom": {
