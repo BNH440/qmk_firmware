@@ -470,3 +470,6 @@ verticies     -> vertices
 whereever     -> wherever
 wherre        -> where
 wierd         -> weird
+:tets         -> test
+:thi sis      -> this is
+entrence      -> entrance
