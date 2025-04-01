@@ -473,3 +473,7 @@ wierd         -> weird
 :tets         -> test
 :thi sis      -> this is
 entrence      -> entrance
+:asnd         -> and
+:atest        -> a test
+benifit       -> benefit
+
