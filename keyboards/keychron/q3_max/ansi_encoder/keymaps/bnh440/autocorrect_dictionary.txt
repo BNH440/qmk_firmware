@@ -476,4 +476,5 @@ entrence      -> entrance
 :asnd         -> and
 :atest        -> a test
 benifit       -> benefit
+:waht         -> what
 
