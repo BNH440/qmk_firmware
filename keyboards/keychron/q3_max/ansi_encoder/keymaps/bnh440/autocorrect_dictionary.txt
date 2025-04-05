@@ -477,4 +477,5 @@ entrence      -> entrance
 :atest        -> a test
 benifit       -> benefit
 :waht         -> what
+:thsi         -> this
 
