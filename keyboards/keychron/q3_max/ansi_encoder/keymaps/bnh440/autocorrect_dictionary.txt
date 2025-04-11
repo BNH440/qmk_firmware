@@ -478,4 +478,5 @@ entrence      -> entrance
 benifit       -> benefit
 :waht         -> what
 :thsi         -> this
+htings        -> things
 
